@@ -36,7 +36,7 @@ O sistema possui as seguintes funcionalidades:
 
 ---
 
-💻 Tecnologias utilizadas
+ Tecnologias utilizadas
 
 - PHP
 - Programação Orientada a Objetos (POO)
