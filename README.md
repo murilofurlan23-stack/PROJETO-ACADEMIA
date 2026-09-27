@@ -24,25 +24,25 @@ O objetivo do projeto é desenvolver um sistema simples para representar o funci
 
 O sistema possui as seguintes funcionalidades:
 
-- Cadastro e apresentação de alunos;
-- Cadastro e apresentação de professores;
-- Criação de planos de academia;
-- Realização de matrículas;
-- Controle do status de pagamentos;
-- Criação de treinos;
-- Cadastro de exercícios;
-- Adição de exercícios aos treinos;
-- Exibição das informações cadastradas.
+Cadastro e apresentação de alunos;
+ Cadastro e apresentação de professores;
+ Criação de planos de academia;
+Realização de matrículas;
+Controle do status de pagamentos;
+Criação de treinos;
+Cadastro de exercícios;
+Adição de exercícios aos treinos;
+Exibição das informações cadastradas.
 
 ---
 
  Tecnologias utilizadas
 
-- PHP
-- Programação Orientada a Objetos (POO)
-- Git
-- GitHub
-- HTML básico
+PHP
+Programação Orientada a Objetos (POO)
+ Git
+ GitHub
+ HTML básico
 
 ---
 
@@ -54,14 +54,14 @@ O projeto utiliza diferentes classes para organizar as responsabilidades do sist
 
 Exemplos:
 
-- "Pessoa"
-- "Aluno"
-- "Professor"
-- "Plano"
-- "Matricula"
-- "Pagamento"
-- "Treino"
-- "Exercicio"
+ "Pessoa"
+ "Aluno"
+ "Professor"
+ "Plano"
+"Matricula"
+ "Pagamento"
+ "Treino"
+"Exercicio"
 
 Objetos
 
